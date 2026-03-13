@@ -1,4 +1,4 @@
-import { getAllProducts } from "@/service/productService";
+import { getAllProductsFromDb } from "@/service/productDbService";
 import { Product } from "@/types";
 import type { FC } from "react";
 import Card from "./card";
@@ -9,7 +9,7 @@ interface IProps {
 }
 
 const Products: FC<IProps> = async () => {
-  const { groceries } = await getAllProducts();
+  const { groceries } = await getAllProductsFromDb();
 
   if (!groceries || groceries.length === 0) {
     return (

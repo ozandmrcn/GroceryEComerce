@@ -1,5 +1,5 @@
 import OrganicBadge from "@/components/Detail/organicBadge";
-import { getProductById } from "@/service/productService";
+import { getProductByIdFromDb } from "@/service/productDbService";
 import Image from "next/image";
 import Link from "next/link";
 import type { FC } from "react";
@@ -20,7 +20,7 @@ interface IProps {
 const Grocery: FC<IProps> = async ({ params }) => {
   const { id } = await params;
 
-  const { grocery } = await getProductById(id);
+  const { grocery } = await getProductByIdFromDb(id);
 
   return (
     <div className="   mx-auto px-4 py-8">
