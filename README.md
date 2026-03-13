@@ -36,7 +36,7 @@ GroceryEComerce enables users to:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Demo  
 You can view a demo of the project by visiting the following link:  
-[Grocery E-Comerce Demo](https://grocery-e-comerce-dcqn.vercel.app/)
+[Grocery E-Comerce Demo](https://grocery-e-comerce.vercel.app/)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Installation
 
