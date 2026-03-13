@@ -34,6 +34,10 @@ GroceryEComerce enables users to:
 - **React Toastify** (Notifications)
 - **React Icons** (Icon Sets)
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Demo  
+You can view a demo of the project by visiting the following link:  
+[Grocery E-Comerce Demo](https://car-rental-iota-hazel.vercel.app/)
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Installation
 
 To run the project locally, follow these steps:
