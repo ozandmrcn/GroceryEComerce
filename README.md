@@ -38,6 +38,9 @@ GroceryEComerce enables users to:
 You can view a demo of the project by visiting the following link:  
 [Grocery E-Comerce Demo](https://grocery-e-comerce.vercel.app/)
 
+## Preview
+<a href="https://ibb.co/RT1WbGz4"><img src="https://i.ibb.co/k2pFBVQ6/1.png" alt="1" border="0" /></a>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Installation
 
 To run the project locally, follow these steps:
