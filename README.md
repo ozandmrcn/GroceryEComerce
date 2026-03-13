@@ -40,7 +40,8 @@ You can view a demo of the project by visiting the following link:
 
 ## Preview
 <a href="https://ibb.co/RT1WbGz4"><img src="https://i.ibb.co/k2pFBVQ6/1.png" alt="1" border="0" /></a>
-<a href="https://ibb.co/RT1WbGz4"><img src="https://i.ibb.co/k2pFBVQ6/1.png" alt="1" border="0"></a><a href="https://ibb.co/5WF654rr"><img src="https://i.ibb.co/gMV3D9SS/2.png" alt="2" border="0"></a>
+<a href="https://ibb.co/5WF654rr"><img src="https://i.ibb.co/gMV3D9SS/2.png" alt="2" border="0" /></a>
+<a href="https://ibb.co/1JKzd49Y"><img src="https://i.ibb.co/jZGJWjL9/3.png" alt="3" border="0" /></a>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Installation
 
